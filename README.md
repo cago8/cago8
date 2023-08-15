@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cagri.bilginer) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
-(https://www.linkedin.com/in/cagribilginer)
+(https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=web&cd=&ved=0CAIQw7AJahcKEwiAi4rErd-AAxUAAAAAHQAAAAAQAg&url=https%3A%2F%2Ftr.linkedin.com%2Fin%2F%25C3%25A7a%25C4%259Fr%25C4%25B1-bilginer-8711a9219&psig=AOvVaw32-kpxEKLLckSTOVNoIHKH&ust=1692212648377916&opi=89978449)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/cago_8) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cagri_bilginer) 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/cago_8) 
