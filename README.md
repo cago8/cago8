@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at Koç University.<br>👯 I’m looking to collaborate on a software development.<br>🌱 I’m currently learning C language.<br>💬 Ask me about whatever you want.<br>⚡ Fun fact - The first “computer bug” was an actual bug.
+🔭 I’m currently studying at Koç University.<br>👯 I’m looking to collaborate on a software development.<br>🌱 I’m currently learning AI.<br>💬 Ask me about whatever you want.<br>⚡ Fun fact - The first “computer bug” was an actual bug.
 
 
 ## 🌐 Socials:
