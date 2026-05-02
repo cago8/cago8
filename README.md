@@ -36,15 +36,15 @@
 ### Databases & Cache
 ![SQL](https://img.shields.io/badge/SQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-%231E90FF.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMSIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-%231E90FF.svg?style=for-the-badge&logo=qdrant&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-%23000000.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMSIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-%2300D4FF.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMSIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=black)
+![Claude](https://img.shields.io/badge/Claude-%23000000.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-%2300D4FF.svg?style=for-the-badge&logo=cursor&logoColor=black)
 
 ### Design
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
@@ -53,9 +53,8 @@
 
 ## 📊 GitHub Statistics
 
-[![cago8's GitHub stats](https://github-readme-stats.vercel.app/api?username=cago8&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&count_private=true)](https://github.com/cago8)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cago8&theme=dark&layout=compact&langs_count=8)](https://github.com/cago8)
+![Stats](./profile/stats.svg)
+![Languages](./profile/languages.svg)
 
 ---
 
@@ -103,7 +102,7 @@ Feel free to reach out through any of my social media links above or via email!
 - 📖 [View All Projects](https://github.com/cago8?tab=repositories)
 - 🎯 [GitHub Profile](https://github.com/cago8)
 - 💼 [LinkedIn](https://linkedin.com/in/cagribilginer)
-- ❌ [X](https://twitter.com/cagri_bilginer)
+- ❌ [X / Twitter](https://twitter.com/cagri_bilginer)
 
 ---
 
