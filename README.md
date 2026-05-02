@@ -95,17 +95,6 @@ I'm always interested in discussing:
 
 Feel free to reach out through any of my social media links above or via email!
 
----
-
-## 📝 Quick Links
-
-- 📖 [View All Projects](https://github.com/cago8?tab=repositories)
-- 🎯 [GitHub Profile](https://github.com/cago8)
-- 💼 [LinkedIn](https://linkedin.com/in/cagribilginer)
-- ❌ [X / Twitter](https://twitter.com/cagri_bilginer)
-
----
-
 <div align="center">
 
 ### Thanks for visiting my profile! 👋
