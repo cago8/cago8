@@ -53,21 +53,9 @@
 
 ## 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=cago8&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true)
+[![cago8's GitHub stats](https://github-readme-stats.vercel.app/api?username=cago8&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&count_private=true)](https://github.com/cago8)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=cago8&theme=shades-of-purple&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cago8&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
-
-## 📈 Contribution Activity
-
-Check my [GitHub Profile](https://github.com/cago8) for:
-- 📊 Total contributions graph
-- 🎯 Contribution streak
-- 🔥 Daily activity heatmap
-- 📚 All repositories and projects
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cago8&theme=dark&layout=compact&langs_count=8)](https://github.com/cago8)
 
 ---
 
