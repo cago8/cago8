@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cagribilginer)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cagri.bilginer)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cagri_bilginer)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/cagri_bilginer)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/cago_8)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/cago_8)
 
@@ -20,64 +20,54 @@
 
 ## 💻 Tech Stack
 
-### Languages
+### Programming Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### Tools & Platforms
+### Frontend & Mobile
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![XAML](https://img.shields.io/badge/XAML-%230C54C2.svg?style=for-the-badge&logo=xamarin&logoColor=white)
+
+### Databases & Cache
+![SQL](https://img.shields.io/badge/SQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-%231E90FF.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMSIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-%23000000.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMSIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-%2300D4FF.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMSIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=black)
 
----
-
-## 📚 Featured Projects
-
-### 🎬 [StreamingService-Notifies](https://github.com/cago8/StreamingService-Notifies)
-A Netflix-like streaming service with intelligent notification system using the Observer design pattern.
-- **Tech:** Java, Observer Pattern
-- **Features:** User management, media catalog, smart notifications
-
-### 📷 [PhotoCloud](https://github.com/cago8/PhotoCloud)
-Instagram-inspired social media platform for sharing photos and connecting with friends.
-- **Tech:** Java, Desktop Application
-- **Features:** User auth, photo uploads, likes, comments, profiles
-
-### ✈️ [Aircrafts](https://github.com/cago8/Aircrafts)
-Flight simulation and aircraft management system demonstrating inheritance and polymorphism.
-- **Tech:** Java, OOP
-- **Features:** Multiple aircraft types, flight physics, fuel management
-
-### ⚡ [EnergyNet](https://github.com/cago8/EnergyNet)
-Smart grid energy trading system simulation using Java Collections Framework.
-- **Tech:** Java, Collections Framework
-- **Features:** Energy trading, prosumer management, transaction processing
-
-### 📚 [LibraryManagementSystem](https://github.com/cago8/LibraryManagementSystem)
-Comprehensive library catalog and book loan management with custom exception handling.
-- **Tech:** Java, Exception Handling
-- **Features:** Book catalog, loan management, search functionality, data validation
+### Design
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ---
 
 ## 📊 GitHub Statistics
 
-### Profile Overview
-- 🎓 **Education:** Koç University
-- 📍 **Location:** Istanbul, Turkey
-- 👤 **Total Repositories:** 12+ public projects
-- 🌟 **Focus Areas:** Java, OOP, Design Patterns, Software Architecture
+![](https://github-readme-stats.vercel.app/api?username=cago8&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true)
 
-### Activity Stats
-View my contribution graph and activity on my [GitHub Profile](https://github.com/cago8)
+![](https://github-readme-streak-stats.herokuapp.com/?user=cago8&theme=shades-of-purple&hide_border=false)
 
-**Most Used Languages:**
-- Java (Primary)
-- Python (Learning)
-- C (Foundation)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cago8&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+
+## 📈 Contribution Activity
+
+Check my [GitHub Profile](https://github.com/cago8) for:
+- 📊 Total contributions graph
+- 🎯 Contribution streak
+- 🔥 Daily activity heatmap
+- 📚 All repositories and projects
 
 ---
 
@@ -86,18 +76,22 @@ View my contribution graph and activity on my [GitHub Profile](https://github.co
 - ✅ Building Java applications with clean architecture
 - 📖 Exploring AI and Machine Learning concepts
 - 🤝 Contributing to collaborative software development projects
-- 📚 Creating comprehensive documentation for projects
-- 🔬 Practicing design patterns and software design principles
+- 📱 Mobile development with Flutter and Dart
+- 🐳 DevOps and containerization with Docker
+- 🧠 Vector databases and AI embeddings with Qdrant
+- 🚀 Rapid development with AI assistants (Claude, Cursor)
 
 ---
 
 ## 🏆 Achievements
 
-- ✨ Multiple well-documented Java projects
+- ✨ Multiple well-documented projects across various domains
 - 🎓 Strong foundation in Object-Oriented Programming
-- 💡 Experience with Design Patterns (Observer, etc.)
-- 📊 Projects covering various domains (social media, streaming, energy trading, library management)
-- 🔧 Custom exception handling and data validation expertise
+- 💡 Experience with Design Patterns and Software Architecture
+- 📱 Cross-platform development (Mobile, Web, Desktop)
+- 🐳 DevOps and containerization expertise
+- 🧠 AI integration and vector database experience
+- 🎨 UI/UX design capabilities
 
 ---
 
@@ -106,7 +100,9 @@ View my contribution graph and activity on my [GitHub Profile](https://github.co
 I'm always interested in discussing:
 - Software development best practices
 - Java and design patterns
+- Mobile development (Flutter, Swift, C#)
 - AI and machine learning
+- DevOps and deployment strategies
 - Open source contributions
 - Collaborative projects
 
@@ -117,8 +113,9 @@ Feel free to reach out through any of my social media links above or via email!
 ## 📝 Quick Links
 
 - 📖 [View All Projects](https://github.com/cago8?tab=repositories)
-- 🌟 [Profile README Generator](https://gprm.itsvg.in) - Tool used to create this README
-- 📊 [GitHub Contribution Stats](https://github.com/cago8)
+- 🎯 [GitHub Profile](https://github.com/cago8)
+- 💼 [LinkedIn](https://linkedin.com/in/cagribilginer)
+- ❌ [X](https://twitter.com/cagri_bilginer)
 
 ---
 
