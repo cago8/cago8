@@ -40,7 +40,3 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add profile/stats.svg profile/languages.svg
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update GitHub stats" && git push origin main)
-<<<<<<< HEAD
-=======
-EOF
->>>>>>> 776e41391c569511150a4fc252dbc005cf76ee3a
