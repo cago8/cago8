@@ -1,15 +1,16 @@
 # 💫 About Me
 
-🔭 I'm currently studying at **Koç University**  
-👯 I'm looking to collaborate on **software development projects**  
-🌱 I'm currently learning **AI and Machine Learning**  
-💬 Ask me about **anything you want**  
+🎓 **Computer Engineering** graduate from **Koç University**
+🎮 Currently building **PocketPet**, a mobile game, with **Unity & C#**
+🌊 SSI Divemaster — spent a month working on a dive boat in Kaş, Türkiye
+💬 Ask me about **anything you want**
 ⚡ Fun fact - The first "computer bug" was an actual bug!
 
 ---
 
 ## 🌐 Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cagribilginer.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cagribilginer)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cagri.bilginer)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/cagri_bilginer)
@@ -29,7 +30,11 @@
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+### Game Development
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
 ### Frontend & Mobile
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![XAML](https://img.shields.io/badge/XAML-%230C54C2.svg?style=for-the-badge&logo=xamarin&logoColor=white)
 
@@ -60,37 +65,30 @@
 
 ## 🎯 What I'm Working On
 
-- ✅ Building Java applications with clean architecture
-- 📖 Exploring AI and Machine Learning concepts
-- 🤝 Contributing to collaborative software development projects
-- 📱 Mobile development with Flutter and Dart
-- 🐳 DevOps and containerization with Docker
-- 🧠 Vector databases and AI embeddings with Qdrant
-- 🚀 Rapid development with AI assistants (Claude, Cursor)
+- 🎮 Building **PocketPet**, a mobile pet simulation game, in Unity & C#
+- 🏰 Led development on **RokueQuest**, a Java/Swing roguelike dungeon crawler
+- 📱 Cross-platform apps with Flutter, React, and native Swift/ARKit
+- 🧠 Exploring AI-assisted development workflows
 
 ---
 
-## 🏆 Achievements
+## 🏆 Background
 
-- ✨ Multiple well-documented projects across various domains
-- 🎓 Strong foundation in Object-Oriented Programming
-- 💡 Experience with Design Patterns and Software Architecture
-- 📱 Cross-platform development (Mobile, Web, Desktop)
-- 🐳 DevOps and containerization expertise
-- 🧠 AI integration and vector database experience
-- 🎨 UI/UX design capabilities
+- 🎓 B.S. in Computer Engineering, Koç University
+- 💼 Software engineering internships at Yapı Kredi Teknoloji, IBTECH, and TEGSOFT
+- 🎮 Strong foundation in OOP, game architecture, and design patterns
+- 🌊 SSI Divemaster, former board member of KUSAS (Koç University Underwater Sports Club)
+- 🥏 Ultimate frisbee team captain (Koç Ramses, 2023–2024 season)
 
 ---
 
 ## 📞 Get In Touch
 
 I'm always interested in discussing:
-- Software development best practices
+- Game development (Unity, C#, game architecture)
+- Mobile development (Flutter, React, Swift)
 - Java and design patterns
-- Mobile development (Flutter, Swift, C#)
-- AI and machine learning
-- DevOps and deployment strategies
-- Open source contributions
+- AI-assisted development
 - Collaborative projects
 
 Feel free to reach out through any of my social media links above or via email!
@@ -99,7 +97,7 @@ Feel free to reach out through any of my social media links above or via email!
 
 ### Thanks for visiting my profile! 👋
 
-**Currently learning, always coding! 💻**
+**Building games, one commit at a time. 🎮**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cago8&color=blueviolet)
 
