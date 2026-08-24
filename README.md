@@ -97,7 +97,7 @@ Feel free to reach out through any of my social media links above or via email!
 
 ### Thanks for visiting my profile! 👋
 
-**Building games, one commit at a time. 🎮**
+**Always learning, Always building. 🎮**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cago8&color=blueviolet)
 
