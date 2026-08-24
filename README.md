@@ -1,10 +1,10 @@
 # 💫 About Me
 
-🎓 **Computer Engineering** graduate from **Koç University**
-🎮 Currently building **PocketPet**, a mobile game, with **Unity & C#**
-🌊 SSI Divemaster — spent a month working on a dive boat in Kaş, Türkiye
-💬 Ask me about **anything you want**
-⚡ Fun fact - The first "computer bug" was an actual bug!
+- 🎓 **Computer Engineering** graduate from **Koç University**
+- 🎮 Currently building **PocketPet**, a mobile game, with **Unity & C#**
+- 🌊 SSI Divemaster — spent a month working on a dive boat in Kaş, Türkiye
+- 💬 Ask me about **anything you want**
+- ⚡ Fun fact - The first "computer bug" was an actual bug!
 
 ---
 
